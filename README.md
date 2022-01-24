@@ -15,5 +15,4 @@
 ![修改欄圖](https://upload.cc/i1/2022/01/25/DRCr8q.jpg
 "修改欄")
 + 如果沒有輸入內容，則會跳出警告視窗
-![警告視窗圖](https://upload.cc/i1/2022/01/25/f6OEKP.jpg
-"警告視窗")
+<img src="https://upload.cc/i1/2022/01/25/f6OEKP.jpg" width="200" alt="警告視窗">
